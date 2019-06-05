@@ -1,8 +1,11 @@
 
 
-use jquery and ajax fetch to add all users - will this work with CORs?? test it...  
+download this repo and npm install 
 
-1. Rewrite jquery to work with cheerios?
-2. Can we get rid of session key?
-3. load students json in to const using a require
-4. use selenium to handle auth only and getting to correct user account page only
+install selenium and selenium chrome
+
+add local config.json with user details for SSO and two step auth code
+
+create json for user details
+
+
